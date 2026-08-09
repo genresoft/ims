@@ -1,2 +1,3 @@
 username	: admin
 password	: password
+link        : https://github.com/fajarghifar/inventory-management-system
